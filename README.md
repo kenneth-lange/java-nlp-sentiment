@@ -14,6 +14,11 @@ The code is a wrapper around Stanford CoreNLP library (https://stanfordnlp.githu
 
 Note that Stanford CoreNLP Library is large (>500 MB), so expect that it will take a little time when the Maven dependencies are downloaded.
 
+## Prerequisites
+1. Maven 3
+2. Java 8+
+3. IntelliJ IDEA (optional)
+
 ## Code Examples
 
 ### Example 1: The minimal example
